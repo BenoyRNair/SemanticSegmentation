@@ -1,0 +1,112 @@
+{
+    "CCNet": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/ccnet/ccnet_r50-d8_512x1024_40k_cityscapes/ccnet_r50-d8_512x1024_40k_cityscapes_20200616_142517-4123f401.pth",
+            "config_file": "ccnet/ccnet_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "ccnet_r50-d8_512x1024_40k_cityscapes_20200616_142517-4123f401.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/ccnet/ccnet_r101-d8_512x1024_40k_cityscapes/ccnet_r101-d8_512x1024_40k_cityscapes_20200616_142540-a3b84ba6.pth",
+            "config_file": "ccnet/ccnet_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "ccnet_r101-d8_512x1024_40k_cityscapes_20200616_142540-a3b84ba6.pth"
+        }
+    },
+    "DeepLabV3": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/deeplabv3/deeplabv3_r50-d8_512x1024_40k_cityscapes/deeplabv3_r50-d8_512x1024_40k_cityscapes_20200605_022449-acadc2f8.pth",
+            "config_file": "deeplabv3/deeplabv3_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "deeplabv3_r50-d8_512x1024_40k_cityscapes_20200605_022449-acadc2f8.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/deeplabv3/deeplabv3_r101-d8_512x1024_40k_cityscapes/deeplabv3_r101-d8_512x1024_40k_cityscapes_20200605_012241-7fd3f799.pth",
+            "config_file": "deeplabv3/deeplabv3_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "deeplabv3_r101-d8_512x1024_40k_cityscapes_20200605_012241-7fd3f799.pth"
+        }
+    },
+    "DeepLabV3Plus": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/deeplabv3plus/deeplabv3plus_r50-d8_512x1024_40k_cityscapes/deeplabv3plus_r50-d8_512x1024_40k_cityscapes_20200605_094610-d222ffcd.pth",
+            "config_file": "deeplabv3plus/deeplabv3plus_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "deeplabv3plus_r50-d8_512x1024_40k_cityscapes_20200605_094610-d222ffcd.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/deeplabv3plus/deeplabv3plus_r101-d8_512x1024_40k_cityscapes/deeplabv3plus_r101-d8_512x1024_40k_cityscapes_20200605_094614-3769eecf.pth",
+            "config_file": "deeplabv3plus/deeplabv3plus_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "deeplabv3plus_r101-d8_512x1024_40k_cityscapes_20200605_094614-3769eecf.pth"
+        }
+    },
+    "FastSCNN": {
+        "FastSCNN": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/fast_scnn/fast_scnn_lr0.12_8x4_160k_cityscapes/fast_scnn_lr0.12_8x4_160k_cityscapes_20210630_164853-0cec9937.pth",
+            "config_file": "fastscnn/fast_scnn_lr0.12_8x4_160k_cityscapes.py",
+            "checkpoint_file": "fast_scnn_lr0.12_8x4_160k_cityscapes_20210630_164853-0cec9937.pth"
+        }
+    },
+    "FCN": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r50-d8_512x1024_40k_cityscapes/fcn_r50-d8_512x1024_40k_cityscapes_20200604_192608-efe53f0d.pth",
+            "config_file": "fcn/fcn_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "fcn_r50-d8_512x1024_40k_cityscapes_20200604_192608-efe53f0d.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/fcn/fcn_r101-d8_512x1024_40k_cityscapes/fcn_r101-d8_512x1024_40k_cityscapes_20200604_181852-a883d3a1.pth",
+            "config_file": "fcn/fcn_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "fcn_r101-d8_512x1024_40k_cityscapes_20200604_181852-a883d3a1.pth"
+        },
+        "HRNetV2p-W18": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/hrnet/fcn_hr18_512x1024_40k_cityscapes/fcn_hr18_512x1024_40k_cityscapes_20200601_014216-f196fb4e.pth",
+            "config_file": "hrnet/fcn_hr18_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "fcn_hr18_512x1024_40k_cityscapes_20200601_014216-f196fb4e.pth"
+        }
+    },
+    "GCNet": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r50-d8_512x1024_40k_cityscapes/gcnet_r50-d8_512x1024_40k_cityscapes_20200618_074436-4b0fd17b.pth",
+            "config_file": "gcnet/gcnet_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "gcnet_r50-d8_512x1024_40k_cityscapes_20200618_074436-4b0fd17b.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/gcnet/gcnet_r101-d8_512x1024_40k_cityscapes/gcnet_r101-d8_512x1024_40k_cityscapes_20200618_074436-5e62567f.pth",
+            "config_file": "gcnet/gcnet_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "gcnet_r101-d8_512x1024_40k_cityscapes_20200618_074436-5e62567f.pth"
+        }
+    },
+    "PSANet": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r50-d8_512x1024_40k_cityscapes/psanet_r50-d8_512x1024_40k_cityscapes_20200606_103117-99fac37c.pth",
+            "config_file": "psanet/psanet_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "psanet_r50-d8_512x1024_40k_cityscapes_20200606_103117-99fac37c.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/psanet/psanet_r101-d8_512x1024_40k_cityscapes/psanet_r101-d8_512x1024_40k_cityscapes_20200606_001418-27b9cfa7.pth",
+            "config_file": "psanet/psanet_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "psanet_r101-d8_512x1024_40k_cityscapes_20200606_001418-27b9cfa7.pth"
+        }
+    },
+    "PSPNet": {
+        "R-50-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/pspnet/pspnet_r50-d8_512x1024_40k_cityscapes/pspnet_r50-d8_512x1024_40k_cityscapes_20200605_003338-2966598c.pth",
+            "config_file": "pspnet/pspnet_r50-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "pspnet_r50-d8_512x1024_40k_cityscapes_20200605_003338-2966598c.pth"
+        },
+        "R-101-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/pspnet/pspnet_r101-d8_512x1024_40k_cityscapes/pspnet_r101-d8_512x1024_40k_cityscapes_20200604_232751-467e7cf4.pth",
+            "config_file": "pspnet/pspnet_r101-d8_512x1024_40k_cityscapes.py",
+            "checkpoint_file": "pspnet_r101-d8_512x1024_40k_cityscapes_20200604_232751-467e7cf4.pth"
+        }
+    },
+    "MobileNetV3": {
+        "M-V3-D8": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/mobilenet_v3/lraspp_m-v3-d8_512x1024_320k_cityscapes/lraspp_m-v3-d8_512x1024_320k_cityscapes_20201224_220337-cfe8fb07.pth",
+            "config_file": "mobilenet_v3/lraspp_m-v3-d8_512x1024_320k_cityscapes.py",
+            "checkpoint_file": "lraspp_m-v3-d8_512x1024_320k_cityscapes_20201224_220337-cfe8fb07.pth"
+        }
+    },
+    "UNet + FCN": {
+        "UNet-S5-D16": {
+            "model": "https://download.openmmlab.com/mmsegmentation/v0.5/unet/fcn_unet_s5-d16_4x4_512x1024_160k_cityscapes/fcn_unet_s5-d16_4x4_512x1024_160k_cityscapes_20211210_145204-6860854e.pth",
+            "config_file": "unet/fcn_unet_s5-d16_4x4_512x1024_160k_cityscapes.py",
+            "checkpoint_file": "fcn_unet_s5-d16_4x4_512x1024_160k_cityscapes_20211210_145204-6860854e.pth"
+        }
+    }
+}
