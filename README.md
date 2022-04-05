@@ -1,6 +1,4 @@
 # Semantic Segmentation
-Evaluate a few pre-trained models performing semantic segmentation on different images
-
 We do a qualitative analysis of several pre-trained models (on [Cityscapes](https://www.cityscapes-dataset.com/) dataset) with different backbones, performing *Semantic Segmentation* on different input images.
 
 [This notebook](https://github.com/BenoyRNair/SemanticSegmentation) was developed and tested in ***Google Colab***.
